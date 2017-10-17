@@ -1,7 +1,5 @@
 # selpg
 
-标签： go golang
-
 ---
 
 ## 1. 概览
